@@ -1,6 +1,7 @@
 # Tarea - 1 Proyecto "Datos personales"
 
 Cree un proyecto Java, que permita en consola la visualización de:
+
 Nombre: “” .
 Apellido: “”.
 Edad: .
